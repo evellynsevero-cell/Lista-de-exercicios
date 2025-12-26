@@ -13,7 +13,7 @@ public class exercicio12 {
                 if (valordireito !=0) System.out.println("Resultado: " + (valoresquerdo / valordireito));
                 else System.out.println("Erro: Divisão por zero");
             }
-            case "%" -> System.out.println("Resultado: " + (valordireito % valordireito));
+            case "%" -> System.out.println("Resultado: " + (0));
             default -> System.out.println("Erro: Operador Inválido");
         }
     }
