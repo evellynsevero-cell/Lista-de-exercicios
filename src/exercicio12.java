@@ -1,6 +1,6 @@
 public class exercicio12 {
     public static void main(String[] args) { System.out.println("Hello and welcome!");
-        String entrada = "30-4";
+        String entrada = "2 - 4";
         String[] partes = entrada.split(" ");
         int valoresquerdo = Integer.parseInt(partes [0]);
         String operador = partes [1];
