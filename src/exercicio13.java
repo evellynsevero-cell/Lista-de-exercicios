@@ -1,6 +1,6 @@
 public class exercicio13 {
     public static void main(String[] args) { System.out.println("Hello and welcome!");
-        int valor = 350;
+        int valor = 258;
         System.out.println("decomposição do valor " + valor + ":");
         int notasde100 = valor / 100;
         valor %= 100;
